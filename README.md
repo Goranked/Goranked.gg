@@ -6,12 +6,12 @@
 
 **The trusted marketplace for boosting, coaching, accounts and in‑game services.**
 
-[![Website](https://img.shields.io/badge/Visit-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg)
+[![Website](https://img.shields.io/badge/Visit-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-4★-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
-[![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg)
+[![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg/en)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-<img src="https://raw.githubusercontent.com/revoool/goranked.gg/main/.github/assets/banner.png" alt="Goranked.gg banner" width="100%" onerror="this.style.display='none'"/>
+<img src="https://placehold.co/1200x320/0f1115/3D5AFE/png?text=GORANKED.GG+%E2%80%94+Your+Gaming+Ambitions%2C+Delivered.&font=montserrat" alt="Goranked.gg banner" width="100%"/>
 
 </div>
 
@@ -178,7 +178,7 @@ that actually answers.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg)
+[![Website](https://img.shields.io/badge/Website-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
 [![About](https://img.shields.io/badge/About_Us-Learn_more-555555?style=for-the-badge)](https://goranked.gg/en/about)
 [![Glossary](https://img.shields.io/badge/Gaming_Glossary-Browse-555555?style=for-the-badge)](https://goranked.gg/en/glossary)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
