@@ -20,7 +20,7 @@
 ## About
 
 **Goranked.gg** is a professional marketplace that connects gamers with verified
-boosters, coaches and sellers worldwide. Founded in **2024** by esports
+boosters, coaches and sellers worldwide. Founded in **2023** by esports
 enthusiasts, the platform has grown into a one‑stop ecosystem where players can
 **level up their rank, learn from pros and pick up ready‑to‑play accounts** —
 all in one secure place.
