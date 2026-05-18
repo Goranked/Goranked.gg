@@ -6,12 +6,12 @@
 
 **The trusted marketplace for boosting, coaching, accounts and in‑game services.**
 
-[![Website](https://img.shields.io/badge/Visit-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg)
+[![Website](https://img.shields.io/badge/Visit-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-4★-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
-[![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg)
+[![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg/en)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-<img src="https://raw.githubusercontent.com/revoool/goranked.gg/main/.github/assets/banner.png" alt="Goranked.gg banner" width="100%" onerror="this.style.display='none'"/>
+<img src="https://placehold.co/1200x320/0f1115/3D5AFE/png?text=GORANKED.GG+%E2%80%94+Your+Gaming+Ambitions%2C+Delivered.&font=montserrat" alt="Goranked.gg banner" width="100%"/>
 
 </div>
 
@@ -138,13 +138,11 @@ that actually answers.
 
 <div align="center">
 
-> 📸 *Screenshots and product imagery will be added here.*
->
-> Drop assets in `.github/assets/` and reference them below.
-
 | Marketplace | Order Configurator | Live Tracking |
 | :---: | :---: | :---: |
-| ![Marketplace](.github/assets/marketplace.png) | ![Configurator](.github/assets/configurator.png) | ![Tracking](.github/assets/tracking.png) |
+| <img src="https://placehold.co/600x360/0f1115/3D5AFE/png?text=Marketplace+%E2%80%94+coming+soon&font=montserrat" alt="Marketplace screenshot" width="320"/> | <img src="https://placehold.co/600x360/0f1115/00B67A/png?text=Order+Configurator+%E2%80%94+coming+soon&font=montserrat" alt="Order configurator screenshot" width="320"/> | <img src="https://placehold.co/600x360/0f1115/FF6B35/png?text=Live+Tracking+%E2%80%94+coming+soon&font=montserrat" alt="Live tracking screenshot" width="320"/> |
+
+<sub><i>Replace placeholders by dropping real screenshots into <code>.github/assets/</code> and updating the image URLs.</i></sub>
 
 </div>
 
@@ -180,7 +178,7 @@ that actually answers.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg)
+[![Website](https://img.shields.io/badge/Website-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
 [![About](https://img.shields.io/badge/About_Us-Learn_more-555555?style=for-the-badge)](https://goranked.gg/en/about)
 [![Glossary](https://img.shields.io/badge/Gaming_Glossary-Browse-555555?style=for-the-badge)](https://goranked.gg/en/glossary)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
