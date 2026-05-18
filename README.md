@@ -138,13 +138,11 @@ that actually answers.
 
 <div align="center">
 
-> 📸 *Screenshots and product imagery will be added here.*
->
-> Drop assets in `.github/assets/` and reference them below.
-
 | Marketplace | Order Configurator | Live Tracking |
 | :---: | :---: | :---: |
-| ![Marketplace](.github/assets/marketplace.png) | ![Configurator](.github/assets/configurator.png) | ![Tracking](.github/assets/tracking.png) |
+| <img src="https://placehold.co/600x360/0f1115/3D5AFE/png?text=Marketplace+%E2%80%94+coming+soon&font=montserrat" alt="Marketplace screenshot" width="320"/> | <img src="https://placehold.co/600x360/0f1115/00B67A/png?text=Order+Configurator+%E2%80%94+coming+soon&font=montserrat" alt="Order configurator screenshot" width="320"/> | <img src="https://placehold.co/600x360/0f1115/FF6B35/png?text=Live+Tracking+%E2%80%94+coming+soon&font=montserrat" alt="Live tracking screenshot" width="320"/> |
+
+<sub><i>Replace placeholders by dropping real screenshots into <code>.github/assets/</code> and updating the image URLs.</i></sub>
 
 </div>
 
