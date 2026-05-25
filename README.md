@@ -140,7 +140,7 @@ that actually answers.
 
 | Marketplace | Order Configurator | Live Tracking |
 | :---: | :---: | :---: |
-| <img src=".github/assets/marketplace.png" alt="Goranked Marketplace screenshot" width="320"/> | <img src=".github/assets/order-configurator.png" alt="Goranked Order Configurator screenshot" width="320"/> | <img src=".github/assets/live-tracking.png" alt="Goranked Live Tracking screenshot" width="320"/> |
+| <img src="assets/marketplace.png" alt="Goranked Marketplace screenshot" width="320"/> | <img src="assets/order-configurator.png" alt="Goranked Order Configurator screenshot" width="320"/> | <img src="assets/live-tracking.png" alt="Goranked Live Tracking screenshot" width="320"/> |
 
 <sub><i>Product previews for marketplace, order configuration and live tracking.</i></sub>
 
