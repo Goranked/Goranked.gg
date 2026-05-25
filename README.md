@@ -4,14 +4,35 @@
 
 ### Your Gaming Ambitions, Delivered.
 
-**The trusted marketplace for boosting, coaching, accounts and in‑game services.**
+**A premium gaming marketplace for boosting, coaching, accounts and in-game services.**
 
-[![Website](https://img.shields.io/badge/Visit-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
-[![Trustpilot](https://img.shields.io/badge/Trustpilot-4★-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
-[![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg/en)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+<br/>
+
+[![Website](https://img.shields.io/badge/Visit-goranked.gg-FF4A18?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
+[![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
+[![Support](https://img.shields.io/badge/Support-24%2F7-FF4A18?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg/en)
+[![Security](https://img.shields.io/badge/Security-Buyer_Protection-181818?style=for-the-badge&logo=shield&logoColor=white)](#trust--safety)
+[![License](https://img.shields.io/badge/License-MIT-505050?style=for-the-badge)](LICENSE)
+
+<br/>
 
 <img src="assets/goranked-banner.png" alt="Goranked.gg banner" width="100%"/>
+
+<br/><br/>
+
+<a href="#about">About</a>
+&nbsp;•&nbsp;
+<a href="#product-experience">Product Experience</a>
+&nbsp;•&nbsp;
+<a href="#services">Services</a>
+&nbsp;•&nbsp;
+<a href="#screenshots">Screenshots</a>
+&nbsp;•&nbsp;
+<a href="#trust--safety">Trust & Safety</a>
+&nbsp;•&nbsp;
+<a href="#roadmap">Roadmap</a>
+&nbsp;•&nbsp;
+<a href="#contact">Contact</a>
 
 </div>
 
@@ -19,28 +40,89 @@
 
 ## About
 
-**Goranked.gg** is a professional marketplace that connects gamers with verified
-boosters, coaches and sellers worldwide. Founded in **2023** by esports
-enthusiasts, the platform has grown into a one‑stop ecosystem where players can
-**level up their rank, learn from pros and pick up ready‑to‑play accounts** —
-all in one secure place.
+**Goranked.gg** is a professional gaming marketplace that connects players with
+verified boosters, coaches and sellers worldwide.
 
-We believe gaming progression should be **transparent, fair and fast**. No hidden
-fees. No shady middlemen. Just verified professionals and a 24/7 support team
-that actually answers.
+The platform is built around a simple promise: make gaming progression
+**transparent, secure and easy to track**. Customers can choose a service,
+configure the order, pay securely, follow progress in real time and communicate
+with support from one place.
+
+Goranked focuses on high-intent gaming services: rank boosting, coaching,
+ready-to-play accounts, placement matches and custom in-game tasks.
+
+---
+
+## Executive Snapshot
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h3>Marketplace</h3>
+<p>Boosting, coaching, accounts and in-game services in one storefront.</p>
+</td>
+<td width="25%" align="center">
+<h3>Live Tracking</h3>
+<p>Order progress, status updates and communication visible in real time.</p>
+</td>
+<td width="25%" align="center">
+<h3>Secure Checkout</h3>
+<p>Transparent pricing, protected payments and clear order flow.</p>
+</td>
+<td width="25%" align="center">
+<h3>Verified Pros</h3>
+<p>Services are fulfilled by reviewed boosters, coaches and sellers.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## Product Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>01 — Discover</h3>
+<p>Players browse available services by game, category, region, rank, delivery time and price.</p>
+</td>
+<td width="33%" valign="top">
+<h3>02 — Configure</h3>
+<p>Every order can be adjusted before checkout: current rank, target rank, queue type, add-ons and preferences.</p>
+</td>
+<td width="33%" valign="top">
+<h3>03 — Track</h3>
+<p>After payment, users can follow the order from assignment to completion with live updates.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Choose game] --> B[Pick service]
+    B --> C[Configure order]
+    C --> D[Secure checkout]
+    D --> E[Verified pro assigned]
+    E --> F[Live tracking]
+    F --> G[Order completed]
+```
 
 ---
 
 ## Why Goranked
 
-| | |
+| Pillar | What it means |
 |---|---|
-| **Verified Pros** | Every booster and coach passes an internal verification. You hire professionals, not strangers. |
-| **Transparent Pricing** | Prices are calculated upfront. What you see at checkout is what you pay — no surprises. |
-| **Order Tracking** | A live order monitor shows progress in real time, from assignment to completion. |
-| **24/7 Support** | Real humans on chat, around the clock, across timezones and languages. |
-| **Secure Payments** | Multiple payment methods, encrypted checkout, buyer protection on every order. |
-| **Account Marketplace** | Curated, verified accounts with detailed attributes — rank, region, inventory, mastery. |
+| **Verified Professionals** | Boosters, coaches and sellers are reviewed before working with customers. |
+| **Clear Pricing** | Customers see pricing logic and order options before checkout. |
+| **Live Order Flow** | Progress is visible from the moment an order is created until completion. |
+| **Human Support** | Support is available through the website for order help and dispute handling. |
+| **Secure Payments** | Checkout is designed around protected transactions and buyer confidence. |
+| **Marketplace Depth** | One ecosystem for boosting, coaching, accounts and custom gaming services. |
 
 ---
 
@@ -48,13 +130,13 @@ that actually answers.
 
 <div align="center">
 
-| Service | What it does |
-| :--- | :--- |
-| **Rank / MMR Boost** | Climb to your target rank with a verified booster |
-| **Coaching** | 1‑on‑1 sessions with pros to actually get better |
-| **Account Marketplace** | Buy ready‑to‑play accounts with verified stats |
-| **Placement / Calibration** | Optimised placement matches for the best starting rank |
-| **In‑game Services** | Custom orders — quests, achievements, items, farming |
+| Service | Purpose | Best for |
+| :--- | :--- | :--- |
+| **Rank / MMR Boost** | Climb from current rank to target rank | Players who want faster progression |
+| **Coaching** | 1-on-1 improvement sessions | Players who want to improve skill, not only rank |
+| **Account Marketplace** | Ready-to-play accounts with key attributes | Buyers who need a prepared account |
+| **Placement / Calibration** | Optimised placement matches | New seasons, new accounts, fresh starts |
+| **In-game Services** | Quests, achievements, farming, custom orders | Players who need task-based help |
 
 </div>
 
@@ -73,11 +155,11 @@ that actually answers.
 </td>
 <td align="center" width="150">
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg" width="120" alt="CS2"/><br/>
-<b>Counter‑Strike 2</b><br/>
+<b>Counter-Strike 2</b><br/>
 <sub>Premier · Faceit · Accounts</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/League_of_Legends-C89B3C?style=for-the-badge&logo=riotgames&logoColor=white" alt="LoL"/><br/>
+<img src="https://img.shields.io/badge/League_of_Legends-C89B3C?style=for-the-badge&logo=riotgames&logoColor=white" alt="League of Legends"/><br/>
 <b>League of Legends</b><br/>
 <sub>Solo/Duo · Flex · Coaching</sub>
 </td>
@@ -91,20 +173,20 @@ that actually answers.
 <td align="center" width="150">
 <img src="https://img.shields.io/badge/Fortnite-9D4DBA?style=for-the-badge&logo=epicgames&logoColor=white" alt="Fortnite"/><br/>
 <b>Fortnite</b><br/>
-<sub>Wins · V‑Bucks · Quests</sub>
+<sub>Wins · Quests · Services</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Mobile_Legends-1E90FF?style=for-the-badge&logo=android&logoColor=white" alt="MLBB"/><br/>
+<img src="https://img.shields.io/badge/Mobile_Legends-1E90FF?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Legends"/><br/>
 <b>Mobile Legends</b><br/>
 <sub>Rank push · Mythic boost</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/World_of_Warcraft-F8B700?style=for-the-badge&logo=battlenet&logoColor=white" alt="WoW"/><br/>
+<img src="https://img.shields.io/badge/World_of_Warcraft-F8B700?style=for-the-badge&logo=battlenet&logoColor=white" alt="World of Warcraft"/><br/>
 <b>World of Warcraft</b><br/>
 <sub>Mythic+ · Raids · Leveling</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Clash_of_Clans-F7B500?style=for-the-badge&logo=supercell&logoColor=white" alt="CoC"/><br/>
+<img src="https://img.shields.io/badge/Clash_of_Clans-F7B500?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash of Clans"/><br/>
 <b>Clash of Clans</b><br/>
 <sub>TH push · Hero levels · Wars</sub>
 </td>
@@ -113,24 +195,7 @@ that actually answers.
 
 </div>
 
-> More titles are being added regularly. Don't see your game? [Tell us](#contact).
-
----
-
-## How It Works
-
-```
-   1. Pick a service     →    2. Configure your order    →    3. Pay securely
-                                                                     ↓
-   6. Enjoy the result   ←    5. Track in real time      ←    4. Pro is assigned
-```
-
-1. **Choose** the game and service you need.
-2. **Configure** your order — current rank, target rank, options, deadline.
-3. **Pay** with your preferred method through secure checkout.
-4. A verified **professional is assigned** to your order automatically.
-5. **Follow progress live** on your personal dashboard.
-6. **Order complete** — leave a review, climb the leaderboard.
+> More titles are added as demand grows. Don't see your game? [Contact us](#contact).
 
 ---
 
@@ -138,39 +203,111 @@ that actually answers.
 
 <div align="center">
 
-| Marketplace | Order Configurator | Live Tracking |
-| :---: | :---: | :---: |
-| <img src="assets/marketplace.png" alt="Goranked Marketplace screenshot" width="320"/> | <img src="assets/order-configurator.png" alt="Goranked Order Configurator screenshot" width="320"/> | <img src="assets/live-tracking.png" alt="Goranked Live Tracking screenshot" width="320"/> |
+<table>
+<tr>
+<th>Marketplace</th>
+<th>Order Configurator</th>
+<th>Live Tracking</th>
+</tr>
+<tr>
+<td width="33%">
+<a href="assets/marketplace.png">
+<img src="assets/marketplace.png" alt="Goranked Marketplace screenshot" width="100%"/>
+</a>
+</td>
+<td width="33%">
+<a href="assets/order-configurator.png">
+<img src="assets/order-configurator.png" alt="Goranked Order Configurator screenshot" width="100%"/>
+</a>
+</td>
+<td width="33%">
+<a href="assets/live-tracking.png">
+<img src="assets/live-tracking.png" alt="Goranked Live Tracking screenshot" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 
-<sub><i>Product previews for marketplace, order configuration and live tracking.</i></sub>
+<sub><i>Click any preview to open the full-size product screenshot.</i></sub>
 
 </div>
 
 ---
 
+## Platform Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### For Players
+
+- Browse gaming services by title, category and rank.
+- Configure order details before checkout.
+- Track order status and completion progress.
+- Communicate with support through the platform.
+- Use a secure and transparent order flow.
+
+</td>
+<td width="50%" valign="top">
+
+### For Professionals
+
+- Structured marketplace listing system.
+- Clear order requirements before starting work.
+- Dashboard-based order management.
+- Review-driven reputation model.
+- Long-term marketplace growth opportunities.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Trust & Safety
 
-- **Verified sellers only** — every booster passes ID and skill verification.
-- **Buyer protection** — full refunds if a service is not delivered.
-- **Encrypted comms** — all chat between buyer and pro is end‑to‑end secured.
-- **VPN & account safety** — boosters use region‑matched VPN and stealth practices.
-- **Dispute resolution** — human moderators on every disputed order.
+Goranked is designed around trust, order transparency and marketplace control.
 
-> Read real reviews on [Trustpilot](https://www.trustpilot.com/review/goranked.gg).
+| Layer | Protection |
+|---|---|
+| **Professional verification** | Sellers, boosters and coaches are reviewed before they can provide services. |
+| **Order visibility** | Customers can follow order state, assignment and progress instead of waiting blindly. |
+| **Payment confidence** | Secure checkout and clear pricing reduce friction and misunderstandings. |
+| **Support process** | Order-related questions and disputes are handled through official support channels. |
+| **Marketplace moderation** | Sellers and services can be reviewed, restricted or removed if needed. |
+
+> Read customer reviews on [Trustpilot](https://www.trustpilot.com/review/goranked.gg).
+
+---
+
+## Brand System
+
+<div align="center">
+
+| Token | Usage |
+|---|---|
+| **Flame Orange** | Primary action color, CTAs, highlights and energy accents |
+| **Graphite / Black** | Premium dark interface, depth and contrast |
+| **White / Foggy Graphite** | Text hierarchy, readability and clean spacing |
+| **Gilroy / Open Sans** | Modern, readable, tech-oriented typography direction |
+
+</div>
 
 ---
 
 ## Roadmap
 
-- [x] Launch core marketplace (Dota 2, CS2, LoL)
-- [x] Live order tracking dashboard
-- [x] Multi‑language storefront (EN / RU / and more)
-- [x] Add Valorant, Fortnite, WoW, Mobile Legends, CoC
-- [ ] Mobile apps for iOS and Android
-- [ ] Public booster leaderboard with ELO‑style ranking
-- [ ] In‑app voice chat between buyer and coach
-- [ ] Affiliate & creator program
-- [ ] Web3 settlements and on‑chain reputation (exploratory)
+- [x] Core marketplace experience
+- [x] Service configuration flow
+- [x] Live order tracking concept
+- [x] Multi-language storefront
+- [x] Expansion across major competitive titles
+- [ ] Mobile-first customer account experience
+- [ ] Public booster and seller reputation pages
+- [ ] Advanced order analytics for internal operations
+- [ ] Affiliate and creator program
+- [ ] Expanded marketplace automation
 
 ---
 
@@ -178,15 +315,15 @@ that actually answers.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-goranked.gg-3D5AFE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
-[![About](https://img.shields.io/badge/About_Us-Learn_more-555555?style=for-the-badge)](https://goranked.gg/en/about)
-[![Glossary](https://img.shields.io/badge/Gaming_Glossary-Browse-555555?style=for-the-badge)](https://goranked.gg/en/glossary)
+[![Website](https://img.shields.io/badge/Website-goranked.gg-FF4A18?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goranked.gg/en)
+[![About](https://img.shields.io/badge/About_Us-Learn_more-505050?style=for-the-badge)](https://goranked.gg/en/about)
+[![Glossary](https://img.shields.io/badge/Gaming_Glossary-Browse-505050?style=for-the-badge)](https://goranked.gg/en/glossary)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/goranked.gg)
 
 </div>
 
-**Business**: GORANKED GLOBAL SERVICES OÜ
-**Support**: available 24/7 via on‑site live chat
+**Business**: GORANKED GLOBAL SERVICES OÜ  
+**Support**: available through the on-site live chat  
 **Press & Partnerships**: see the [About page](https://goranked.gg/en/about)
 
 ---
