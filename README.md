@@ -11,7 +11,7 @@
 [![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg/en)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-<img src=".github/assets/goranked-banner.png" alt="Goranked.gg banner" width="100%"/>
+<img src="assets/goranked-banner.png" alt="Goranked.gg banner" width="100%"/>
 
 </div>
 
