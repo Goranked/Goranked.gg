@@ -11,7 +11,7 @@
 [![Support](https://img.shields.io/badge/Support-24%2F7-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://goranked.gg/en)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-<img src="https://placehold.co/1200x320/0f1115/3D5AFE/png?text=GORANKED.GG+%E2%80%94+Your+Gaming+Ambitions%2C+Delivered.&font=montserrat" alt="Goranked.gg banner" width="100%"/>
+<img src=".github/assets/goranked-banner.png" alt="Goranked.gg banner" width="100%"/>
 
 </div>
 
@@ -140,9 +140,9 @@ that actually answers.
 
 | Marketplace | Order Configurator | Live Tracking |
 | :---: | :---: | :---: |
-| <img src="https://placehold.co/600x360/0f1115/3D5AFE/png?text=Marketplace+%E2%80%94+coming+soon&font=montserrat" alt="Marketplace screenshot" width="320"/> | <img src="https://placehold.co/600x360/0f1115/00B67A/png?text=Order+Configurator+%E2%80%94+coming+soon&font=montserrat" alt="Order configurator screenshot" width="320"/> | <img src="https://placehold.co/600x360/0f1115/FF6B35/png?text=Live+Tracking+%E2%80%94+coming+soon&font=montserrat" alt="Live tracking screenshot" width="320"/> |
+| <img src=".github/assets/marketplace.png" alt="Goranked Marketplace screenshot" width="320"/> | <img src=".github/assets/order-configurator.png" alt="Goranked Order Configurator screenshot" width="320"/> | <img src=".github/assets/live-tracking.png" alt="Goranked Live Tracking screenshot" width="320"/> |
 
-<sub><i>Replace placeholders by dropping real screenshots into <code>.github/assets/</code> and updating the image URLs.</i></sub>
+<sub><i>Product previews for marketplace, order configuration and live tracking.</i></sub>
 
 </div>
 
@@ -185,7 +185,7 @@ that actually answers.
 
 </div>
 
-**Business**: GORANKED GLOBAL SERVICES LLC
+**Business**: GORANKED GLOBAL SERVICES OÜ
 **Support**: available 24/7 via on‑site live chat
 **Press & Partnerships**: see the [About page](https://goranked.gg/en/about)
 
